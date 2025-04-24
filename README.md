@@ -29,7 +29,7 @@ UniSQLBot is a Streamlit-based web application that converts natural language qu
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/UniSQLBot.git
-   cd unisqlbot
+   cd UniSQLBot
    ```
 
 2. Install the required dependencies:
