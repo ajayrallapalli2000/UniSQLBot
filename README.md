@@ -103,7 +103,7 @@ UniSQLBot was developed by:
 - Sai Mahitha Etikala
 - Sai Rathnakar Reddy Paderla
 
-This project was developed as part of the DS5983 SPTP: Large Language Models course at Northeastern University.
+This project was developed as part of the DS5983 SpTp: Large Language Models course at Northeastern University.
 
 ## 📄 License
 
